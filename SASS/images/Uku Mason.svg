@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 235 344" width="235" height="344">
+	<defs>
+		<filter id="flt1"> <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1   0 0 0 1 0" /> </filter>
+		<image width="162" height="208" id="img1" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNjIgMjA4IiB3aWR0aD0iMTYyIiBoZWlnaHQ9IjIwOCI+Cgk8c3R5bGU+CgkJdHNwYW4geyB3aGl0ZS1zcGFjZTpwcmUgfQoJCS5zaHAwIHsgZmlsbDogIzAwMDAwMCB9IAoJPC9zdHlsZT4KCTxnIGlkPSJQYWdlIDEiPgoJCTxwYXRoIGlkPSJQYXRoIDEiIGNsYXNzPSJzaHAwIiBkPSJNOTQuNTcsMTUwLjc3YzQ2LjgsMy42MiA3Mi45NCwtNDYuNyA2Ni41NSwtOTMuMTdjLTUuNjcsLTQxLjE3IC00Ni43NCwtNjIuMTMgLTkwLjUxLC01Ny4yM2MtMzQuNiwzLjg4IC02OS4xLDMxLjg4IC03MC41NCw3MS44N2MtMC45LDI0LjQ0IDYuMDQsNDIuNzcgMjkuMjgsNDcuOTJjMTAuMDcsLTE3LjggLTMuMjUsLTIxLjcxIC01LjMyLC0zNC42MWMtOC41MywtNTIuNzUgNjAuODUsLTg4Ljc1IDk3LjE2LC01MS45MWMyNS4xMywyNS41MiA4LjU5LDEwMy45OCAtMzEuOTQsOTUuODNjLTM4LjgxLC03LjggMTkuMDEsLTcwLjI2IC0xMS45OCwtODIuNTJjLTI1LjE4LC05Ljk3IC0zOC41NiwzMC40OCAtMjYuNjIsNTAuNThjLTcsMzQuNTcgLTIyLjA4LDY3LjEyIC0xNS45NywxMTAuNDdjMTkuNzksLTE0LjM2IDI2LjQ3LC00MS44NiAzMS45NSwtNzAuNTRjOS45NCw2LjA0IDE1LjI3LDEyLjMyIDI3Ljk1LDEzLjMxeiIgLz4KCTwvZz4KPC9zdmc+"/>
+		<filter id="flt2"> <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.988   0 0 0 0 0.988   0 0 0 0 0.988   0 0 0 1 0" /> </filter>
+		<image width="104" height="188" id="img2" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDQgMTg4IiB3aWR0aD0iMTA0IiBoZWlnaHQ9IjE4OCI+Cgk8c3R5bGU+CgkJdHNwYW4geyB3aGl0ZS1zcGFjZTpwcmUgfQoJCS5zaHAwIHsgZmlsbDogIzAwMDAwMCB9IAoJPC9zdHlsZT4KCTxnIGlkPSJQYWdlIDEiPgoJCTxwYXRoIGlkPSJQYXRoIDEiIGNsYXNzPSJzaHAwIiBkPSJNMTA0LjE3LDAuNWgtMjkuNzZjLTI0LjYzLDAgLTQyLjU3LDIxLjAzIC00Mi41Nyw0Ni44OHYxOC4wM2gtMzEuODR2MzAuNjNoMzEuODR2OTEuOTdoMzUuMTJ2LTkxLjk3aDM3LjJ2LTMwLjYzaC0zNy4ydi0yMS40OWMwLC02LjE5IDMuOTMsLTEwLjgyIDcuNDUsLTEwLjgyaDI5Ljc2eiIgLz4KCTwvZz4KPC9zdmc+"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #111111;stroke: #ffffff;stroke-width: 3 } 
+		.txt1 { font-size: 18px;letter-spacing: 0px;line-height: 50px;fill: #ffffff;font-family: "Brandon Grotesque";font-weight: bold;text-anchor: middle } 
+		.txt2 { font-size: 16px;letter-spacing: 0px;fill: #ebebeb;font-family: "Brandon Grotesque";text-anchor: middle } 
+		.shp3 { fill: #111111;stroke: #ffffff;paint-order:stroke fill markers;stroke-width: 14 } 
+	</style>
+	<g id="Our Amazing Team">
+		<g id="Team">
+			<g id="Uku Mason">
+				<g id="Social">
+					<path id="Pinterest Background" class="shp0" d="M122.93,323.47c0,11.06 8.97,20.03 20.03,20.03c11.06,0 20.03,-8.97 20.03,-20.03c0,-11.06 -8.97,-20.03 -20.03,-20.03c-11.06,0 -20.03,8.97 -20.03,20.03z" />
+					<use id="Pinterest" style="filter: url(#flt1)" href="#img1" transform="matrix(0.201,0,0,0.2,135.031,314.202)"/>
+					<path id="Facebook Background" class="shp0" d="M72.99,323.47c0,11.06 8.97,20.03 20.03,20.03c11.06,0 20.03,-8.97 20.03,-20.03c0,-11.06 -8.97,-20.03 -20.03,-20.03c-11.06,0 -20.03,8.97 -20.03,20.03z" />
+					<use id="Facebook" style="filter: url(#flt2)" href="#img2" transform="matrix(0.2,0,0,0.2,87.937,315.103)"/>
+				</g>
+				<text id="Name &amp; Title" style="transform: matrix(1,0,0,1,118.146,266.546)" >
+					<tspan x="0" y="0" class="txt1">Uku Mason</tspan>
+					<tspan x="0" y="17.92" class="txt2">Graphic Designer</tspan>
+				</text>
+				<path id="Container" class="shp3" d="M7.99,117.93c0,60.75 49.25,110 110,110c60.75,0 110,-49.25 110,-110c0,-60.75 -49.25,-110 -110,-110c-60.75,0 -110,49.25 -110,110z" />
+			</g>
+		</g>
+	</g>
+</svg>
